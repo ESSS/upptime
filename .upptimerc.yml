@@ -12,6 +12,8 @@ sites:
     url: https://rfdap-demo.esss.co
   - name: RF-DAP (Internal)
     url: https://rfdap.esss.co
+  - name: STORMS
+    url: https://storms.esss.co
   - name: Atlantis
     url: https://atlantis.esss.co
 
@@ -20,10 +22,10 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  logoUrl: https://storage.googleapis.com/site.esss.co/2018/01/esss.png
+  name: ESSS Dev Upptime
+  introTitle: "ESSS Dev uptime monitor"
+  introMessage: 
   navbar:
     - title: Status
       href: /
