@@ -4,47 +4,47 @@
     "url": "https://techeval.esss.co",
     "slug": "peneira",
     "status": "up",
-    "uptime": "100.00",
-    "time": 968
+    "uptime": "100.00%",
+    "time": 947
   },
   {
     "name": "RF-DAP (Stage)",
     "url": "https://devrfdap.esss.co",
     "slug": "rf-dap-stage",
     "status": "up",
-    "uptime": "100.00",
-    "time": 964
+    "uptime": "100.00%",
+    "time": 978
   },
   {
     "name": "RF-DAP (Demo)",
     "url": "https://rfdap-demo.esss.co",
     "slug": "rf-dap-demo",
     "status": "up",
-    "uptime": "100.00",
-    "time": 844
+    "uptime": "100.00%",
+    "time": 869
   },
   {
     "name": "RF-DAP (Internal)",
     "url": "https://rfdap.esss.co",
     "slug": "rf-dap-internal",
     "status": "up",
-    "uptime": "100.00",
-    "time": 783
+    "uptime": "100.00%",
+    "time": 818
   },
   {
     "name": "STORMS",
     "url": "https://storms.esss.co",
     "slug": "storms",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1314
+    "uptime": "100.00%",
+    "time": 1326
   },
   {
     "name": "Atlantis",
     "url": "https://atlantis.esss.co",
     "slug": "atlantis",
     "status": "up",
-    "uptime": "100.00",
-    "time": 876
+    "uptime": "100.00%",
+    "time": 872
   }
 ]
