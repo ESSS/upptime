@@ -27,9 +27,9 @@
     "name": "RF-DAP (Internal)",
     "url": "https://rfdap.esss.co",
     "slug": "rf-dap-internal",
-    "status": "up",
-    "uptime": "99.63%",
-    "time": 728
+    "status": "down",
+    "uptime": "99.62%",
+    "time": 672
   },
   {
     "name": "STORMS",
@@ -43,8 +43,8 @@
     "name": "Atlantis",
     "url": "https://atlantis.esss.co",
     "slug": "atlantis",
-    "status": "up",
-    "uptime": "99.64%",
-    "time": 843
+    "status": "down",
+    "uptime": "99.65%",
+    "time": 778
   }
 ]
