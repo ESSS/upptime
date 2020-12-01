@@ -5,7 +5,7 @@
     "slug": "peneira",
     "status": "up",
     "uptime": "100.00%",
-    "time": 944
+    "time": 940
   },
   {
     "name": "RF-DAP (Stage)",
@@ -13,7 +13,7 @@
     "slug": "rf-dap-stage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 972
+    "time": 965
   },
   {
     "name": "RF-DAP (Demo)",
@@ -21,15 +21,15 @@
     "slug": "rf-dap-demo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 920
+    "time": 904
   },
   {
     "name": "RF-DAP (Internal)",
     "url": "https://rfdap.esss.co",
     "slug": "rf-dap-internal",
     "status": "up",
-    "uptime": "99.69%",
-    "time": 726
+    "uptime": "99.72%",
+    "time": 739
   },
   {
     "name": "STORMS",
@@ -37,14 +37,14 @@
     "slug": "storms",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1304
+    "time": 1287
   },
   {
     "name": "Atlantis",
     "url": "https://atlantis.esss.co",
     "slug": "atlantis",
     "status": "up",
-    "uptime": "99.70%",
-    "time": 798
+    "uptime": "99.73%",
+    "time": 792
   }
 ]
