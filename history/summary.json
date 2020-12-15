@@ -40,19 +40,19 @@
     "url": "https://rfdap-demo.esss.co",
     "icon": "https://favicons.githubusercontent.com/rfdap-demo.esss.co",
     "slug": "rf-dap-demo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1021,
-    "timeDay": 973,
-    "timeWeek": 951,
-    "timeMonth": 1021,
-    "timeYear": 1021,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "93.51%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 1020,
+    "timeDay": 981,
+    "timeWeek": 956,
+    "timeMonth": 1020,
+    "timeYear": 1020,
     "dailyMinutesDown": {
-      "2020-12-15": 0
+      "2020-12-15": 93
     }
   },
   {
