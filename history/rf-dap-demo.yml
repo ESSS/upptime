@@ -1,7 +1,7 @@
 url: https://rfdap-demo.esss.co  
-status: down
-code: 503
-responseTime: 911
-lastUpdated: 2021-01-03T23:26:16.435Z
+status: up
+code: 200
+responseTime: 942
+lastUpdated: 2021-01-04T10:10:43.947Z
 startTime: Sat Nov 21 2020 18:24:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
