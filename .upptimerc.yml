@@ -6,8 +6,8 @@ repo: upptime # Your Github repository name
 sites:
   - name: Peneira
     url: https://techeval.esss.co
-  - name: RF-DAP (Stage)
-    url: https://devrfdap.esss.co
+  - name: RF-DAP (DEV)
+    url: https://rfdap-dev.esss.co
   - name: RF-DAP (Demo)
     url: https://rfdap-demo.esss.co
   - name: RF-DAP (Internal)
