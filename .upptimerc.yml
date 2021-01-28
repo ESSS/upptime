@@ -12,6 +12,8 @@ sites:
     url: https://rfdap-demo.esss.co
   - name: RF-DAP (Internal)
     url: https://rfdap.esss.co
+  - name: RF-DAP (Shell)
+    url: https://shell-rfdap.esss.co
   - name: STORMS
     url: https://storms.esss.co
   - name: Atlantis
