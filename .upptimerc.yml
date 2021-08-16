@@ -4,16 +4,16 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Peneira
-    url: https://techeval.esss.co
-  - name: RF-DAP (DEV)
-    url: https://rfdap-dev.esss.co
   - name: RF-DAP (Demo)
     url: https://rfdap-demo.esss.co
-  - name: RF-DAP (Internal)
+  - name: RF-DAP (ESSS)
     url: https://rfdap.esss.co
   - name: RF-DAP (Shell)
     url: https://shell-rfdap.esss.co
+  - name: RF-DAP (FASE Training)
+    url: https://fase-training.esss.co
+  - name: RF-DAP (Trial)
+    url: https://rfdap-trial1.esss.co
   - name: STORMS
     url: https://storms.esss.co
   - name: Atlantis
