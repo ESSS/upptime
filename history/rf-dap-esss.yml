@@ -1,7 +1,7 @@
 url: https://rfdap.esss.co
-status: up
-code: 200
-responseTime: 4654
-lastUpdated: 2021-09-01T23:13:46.152Z
+status: down
+code: 502
+responseTime: 761
+lastUpdated: 2021-09-02T20:22:49.414Z
 startTime: Mon Aug 16 2021 17:06:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
